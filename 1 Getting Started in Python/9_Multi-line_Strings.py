@@ -2,7 +2,7 @@
 
 #make 2 strings months has \n wihc makes a new line 
 days = "Mon Tue Wed Thu Fri Sat Sun"
-months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
+months = "\nJan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
 
 #prints a string and then a varabel after line 9 has the \n wich makes a new line evre time it is caled and wil ther for make a long list down 
 print("Here are the days: ", days)
